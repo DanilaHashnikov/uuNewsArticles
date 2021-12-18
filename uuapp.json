@@ -1,0 +1,17 @@
+{
+  "product": "news_articles_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "news_articles_maing01-hi": {},
+  "news_articles_maing01-server": {}
+}
